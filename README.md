@@ -194,19 +194,6 @@ The Power BI dashboard includes:
 * Load Power BI dashboard file for visualization
 
 ---
-## Project Structure
-
-```bash
-├── dataset/
-├── notebooks/
-├── sql_queries/
-├── dashboard/
-├── presentation/
-├── visuals/
-├── README.md
-```
-
----
 
 ## Conclusion
 
